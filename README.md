@@ -59,7 +59,7 @@ Extract them in the `datasets` folder.
 ## Training
 
 ### Zero-Shot 3D Point Cloud Classification
-1. To train and evaluate ZSL and GZSL models on CUB, AWA, FLO and SUN, please run:
+1. To train and evaluate ZSL and GZSL models, please run:
 ```
 python scripts/run_CGRL.py
 ```
