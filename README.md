@@ -81,9 +81,13 @@ python scripts/run_CGRL.py
 
 If you find this useful, please cite our work as follows:
 ```
-@article{hao4211583contrastive,
-  title={Contrastive Generative Network with Recursive-Loop for 3d Point},
-  author={Hao, Yun and Su, Yukun and Lin, Guosheng and Wu, Qingyao},
-  journal={Available at SSRN 4211583}
+@article{hao2023contrastive,
+  title={Contrastive Generative Network with Recursive-Loop for 3D point cloud generalized zero-shot classification},
+  author={Hao, Yun and Su, Yukun and Lin, Guosheng and Su, Hanjing and Wu, Qingyao},
+  journal={Pattern Recognition},
+  volume={144},
+  pages={109843},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
